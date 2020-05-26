@@ -34,4 +34,9 @@ Java :
     // config value can use like context.getResources().getInteger(R.integer.yourDefinedValue) 
     // ** ps : if original use autoSize, need set noneAutoSize before setTextSize
     // TextViewCompat.setAutoSizeTextTypeWithDefaults(tv, TextViewCompat.AUTO_SIZE_TEXT_TYPE_NONE);// params : textView, int    
-    
+
+### text lineSpacingMultiplier
+
+xml :
+        
+    android:lineSpacingMultiplier="float val"
