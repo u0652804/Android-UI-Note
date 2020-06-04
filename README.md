@@ -1,5 +1,11 @@
 # Android-UI-Note
 
+## reference
+
+padding : http://android4beginners.com/2013/07/lesson-2-2-how-to-use-margins-and-paddings-in-android-layout/
+
+constraintlayout : https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013
+
 ### single line
 
 xml :
